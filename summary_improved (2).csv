@@ -1,0 +1,14 @@
+Metric,Value
+Total Auctions,1610
+Bills,1199
+Notes,311
+Bonds,100
+TIPS,46
+Auction Yield Coverage,1564/1610
+Market Yield Coverage,1564/1610
+Valid Spreads,1564
+Match Rate (%),97.1%
+Mean Spread (bps),-2.15
+Median Spread (bps),-2.35
+Mean BTC,2.82
+Anomalies Detected,70

@@ -1,0 +1,11 @@
+Metric,Value
+Total Auctions Analyzed,1564
+Date Range,2022-01-03 to 2025-10-23
+Mean Spread (bps),-2.15
+Median Spread (bps),-2.35
+Std Dev Spread (bps),20.10
+Mean Bid-to-Cover,2.82
+Auctions with Negative Spread (%),63.6
+Anomalies Detected,70
+Anomaly Rate (%),4.5
+Match Rate (%),97.1

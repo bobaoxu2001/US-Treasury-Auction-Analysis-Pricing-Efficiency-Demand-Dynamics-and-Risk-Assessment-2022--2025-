@@ -1,0 +1,4 @@
+sec_type,Count,Mean Spread,Median Spread,Std Dev,Mean BTC,Mean Yield
+Bill,1199,-3.35,-3.76,8.81,2.91,4.26
+Bond,100,11.49,0.9,50.53,2.5,3.94
+Note,265,-1.89,1.7,31.71,2.52,3.53
